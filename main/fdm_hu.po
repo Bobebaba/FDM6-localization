@@ -1,0 +1,613 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: ar_EG\n"
+"X-Source-Language: en\n"
+"X-Qt-Contexts: true\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgctxt "AboutDialog|"
+msgid "About"
+msgstr "Névjegy"
+
+msgctxt "AboutDialog|"
+msgid "Beta version %1 (%2)"
+msgstr "Béta verzió %1 (%2)"
+
+msgctxt "AboutDialog|"
+msgid "%1 version %2"
+msgstr "%1 verzió %2"
+
+msgctxt "AboutDialog|"
+msgid "OK"
+msgstr "Rendben"
+
+msgctxt "AboutDialog|"
+msgid "Version %1 (%2)"
+msgstr "%1 verzió (%2)"
+
+msgctxt "AddDateToFileName|"
+msgid "Add dates to files names"
+msgstr "Dátum hozzáadása a fájlnevekhez"
+
+msgctxt "AddTag|"
+msgid "Add tag"
+msgstr "Címke hozzáadása"
+
+msgctxt "AdvancedSettings|"
+msgid "Advanced"
+msgstr "Haladó"
+
+msgctxt "AdvancedSettings|"
+msgid "Notifications"
+msgstr "Értesítések"
+
+msgctxt "AdvancedSettings|"
+msgid "Notify me of completed downloads via Notification Center"
+msgstr ""
+"Értesítés a befejezett letöltésekről az értesítési központ segítségével"
+
+msgctxt "AdvancedSettings|"
+msgid "Notify me of downloads only when %1 window is inactive"
+msgstr "Csak akkor értesítsen a letöltésekről, ha a(z) %1 ablak inaktív"
+
+msgctxt "AdvancedSettings|"
+msgid "Power management"
+msgstr "Energiagazdálkodás"
+
+msgctxt "AdvancedSettings|"
+msgid "Don't put your computer to sleep if there is an active download"
+msgstr "Ne engedje aludni a számítógépet, ha aktív letöltés van"
+
+msgctxt "AdvancedSettings|"
+msgid "Enable sleep mode while running finished downloads"
+msgstr "Alvó üzemmód engedélyezése a letöltött fájlok futtatása közben"
+
+msgctxt "AdvancedSettings|"
+msgid "Options"
+msgstr "Lehetőségek"
+
+msgctxt "AdvancedSettings|"
+msgid "Launch at startup (minimized)"
+msgstr "Indítás (minimalizálva)"
+
+msgctxt "AdvancedSettings|"
+msgid "Open/hide the bottom panel by clicking on the download"
+msgstr "Az alsó panel megnyitása/elrejtése a letöltésre kattintva"
+
+msgctxt "AdvancedSettings|"
+msgid "Delete button action"
+msgstr "A törlés gomb művelete"
+
+msgctxt "AdvancedSettings|"
+msgid "Remove only from download list"
+msgstr "Csak a letöltési listáról távolítja el"
+
+msgctxt "AdvancedSettings|"
+msgid "Delete files"
+msgstr "Fájlok törlése"
+
+msgctxt "AdvancedSettings|"
+msgid "Always ask"
+msgstr "Mindig kérdez"
+
+msgctxt "AuthenticationDialog|"
+msgid "Authentication required"
+msgstr "Azonosítás szükséges"
+
+msgctxt "AuthenticationDialog|"
+msgid "The site says: \"%1\"."
+msgstr "A webhely szerint: \"%1\"."
+
+msgctxt "AuthenticationDialog|"
+msgid "Username:"
+msgstr "Felhasználónév:"
+
+msgctxt "AuthenticationDialog|"
+msgid "Password:"
+msgstr "Jelszó:"
+
+msgctxt "AuthenticationDialog|"
+msgid "remember"
+msgstr "emlékezik"
+
+msgctxt "AuthenticationDialog|"
+msgid "Cancel"
+msgstr "Mégse"
+
+msgctxt "AuthenticationDialog|"
+msgid "OK"
+msgstr "Rendben"
+
+msgctxt "AuthenticationPage|"
+msgid "Authentication required"
+msgstr "Azonosítás szükséges"
+
+msgctxt "AuthenticationPage|"
+msgid "OK"
+msgstr "Rendben"
+
+msgctxt "AuthenticationPage|"
+msgid "The site says: \"%1\"."
+msgstr "A webhely szerint: \"%1\"."
+
+msgctxt "AuthenticationPage|"
+msgid "Username"
+msgstr "Felhasználónév"
+
+msgctxt "AuthenticationPage|"
+msgid "Password"
+msgstr "Jelszó"
+
+msgctxt "AuthenticationPage|"
+msgid "Remember"
+msgstr "Emlékezik"
+
+msgctxt "BatchVideoQuality|"
+msgid "Preffered Video Quality:"
+msgstr "Előnyben részesített videóminőség:"
+
+msgctxt "BottomPanelTools|"
+msgid "General"
+msgstr "Általános"
+
+msgctxt "BottomPanelTools|"
+msgid "Progress"
+msgstr "Haladás"
+
+msgctxt "BottomPanelTools|"
+msgid "Files"
+msgstr "Fájlok"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Browser Integration"
+msgstr "Böngészó integráció"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid ""
+"Make sure you have %1 extension installed, otherwise, click one of the "
+"buttons below"
+msgstr ""
+"Győződjön meg arról, hogy telepítve van a(z) %1 bővítmény, egyébként "
+"kattintson az alábbi gombok egyikére"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Download Firefox extension"
+msgstr "Firefox bővítmény letöltése"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Firefox is not installed"
+msgstr "Firefox nincs telepítve"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Download Google Chrome extension"
+msgstr "Google Chrome bővítmény letöltése"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Google Chrome is not installed"
+msgstr "Google Chrome nincs telepítve"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Automatically catch downloads from browsers"
+msgstr "A böngészőkből származó letöltések automatikus elkapása"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Intercept downloads in your web browser"
+msgstr "Figyeli a letöltéseket a böngészőben"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Start downloading without confirmation"
+msgstr "A letöltés indítása megerősítés nélkül"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Skip domains"
+msgstr "Tartományok kihagyása"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Edit list"
+msgstr "Lista szerkesztése"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Skip files with extensions"
+msgstr "Fájlkiterjesztések kihagyása"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Don't catch downloads smaller than"
+msgstr "Ne kapja el a letöltést ha kisebb mint"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Mbytes"
+msgstr "Mbytes"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Use browser if you cancel download via %1"
+msgstr "Használja a böngészőt, ha megszakítja a letöltést az %1 keresztül"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Add download"
+msgstr "Letöltés hozzáadása"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Cancel"
+msgstr "Mégse"
+
+msgctxt "BuildDownloadDialog|"
+msgid "Download"
+msgstr "Letöltés"
+
+msgctxt "BuildDownloadDialog|"
+msgid "OK"
+msgstr "Rendben"
+
+msgctxt "BuildDownloadPage|"
+msgid "Add download"
+msgstr "Letöltés hozzáadása"
+
+msgctxt "BuildDownloadPage|"
+msgid "Download"
+msgstr "Letöltés"
+
+msgctxt "BuildDownloadPage|"
+msgid "OK"
+msgstr "Rendben"
+
+msgctxt "BuildDownloadTools|"
+msgid "The proxy %1 requires a username and password."
+msgstr "%1 proxy felhasználónevet és jelszót igényel."
+
+msgctxt "BuildDownloadTools|"
+msgid "%1 is requesting your username and password."
+msgstr "%1 kéri a felhasználónevét és jelszavát."
+
+msgctxt "BuildDownloadTools|"
+msgid "Querying info. Please wait..."
+msgstr "Információ lekérdezése. Kérlek várj..."
+
+msgctxt "ButtonsBlock|"
+msgid "Please select download link"
+msgstr "Kérlek, válassz letöltési linket"
+
+msgctxt "ButtonsBlock|"
+msgid "Cancel"
+msgstr "Mégse"
+
+msgctxt "ButtonsBlock|"
+msgid "Download"
+msgstr "Letöltés"
+
+msgctxt "ChangeUrlDialog|"
+msgid "Change download URL"
+msgstr "Letöltési URL módosítása"
+
+msgctxt "ChangeUrlDialog|"
+msgid "Enter new URL"
+msgstr "Írja be az új URL-t"
+
+msgctxt "ChangeUrlDialog|"
+msgid "Invalid URL"
+msgstr "Érvénytelen URL"
+
+msgctxt "ChangeUrlDialog|"
+msgid "Start download"
+msgstr "Letöltés indítása"
+
+msgctxt "ChangeUrlDialog|"
+msgid "Cancel"
+msgstr "Mégse"
+
+msgctxt "ChangeUrlDialog|"
+msgid "OK"
+msgstr "Rendben"
+
+msgctxt "ChangeUrlPage|"
+msgid "Change download URL"
+msgstr "Letöltési URL módosítása"
+
+msgctxt "ChangeUrlPage|"
+msgid "OK"
+msgstr "Rendben"
+
+msgctxt "ChangeUrlPage|"
+msgid "Enter new URL"
+msgstr "Írja be az új URL-t"
+
+msgctxt "ChangeUrlPage|"
+msgid "Start download"
+msgstr "Letöltés indítása"
+
+msgctxt "ChangeUrlPage|"
+msgid "Invalid URL"
+msgstr "Érvénytelen URL"
+
+msgctxt "CopyLinkMenu|"
+msgid "Copy link"
+msgstr "Link másolása"
+
+msgctxt "CrashReporter|"
+msgid ""
+"An internal error occurred.<br>%1 needs to be restarted for further use."
+msgstr ""
+"Belső hiba történt. A(z) %1 további használathoz újra kell indítani."
+
+msgctxt "CrashReporter|"
+msgid "Restart %1 automatically"
+msgstr "Indítsa újra a(z) %1 -t automatikusan"
+
+msgctxt "CrashReporter|"
+msgid "Failed to send the report.<br>Check your Internet connection."
+msgstr ""
+"Nem sikerült elküldeni a jelentést.<br>Ellenőrizze az internet-"
+"kapcsolatot."
+
+msgctxt "CrashReporter|"
+msgid "Error"
+msgstr "Hiba"
+
+msgctxt "CreateFolderDialog|"
+msgid "Create folder"
+msgstr "Mappa létrehozása"
+
+msgctxt "CreateFolderDialog|"
+msgid "OK"
+msgstr "Rendben"
+
+msgctxt "CreateFolderDialog|"
+msgid "Cancel"
+msgstr "Mégse"
+
+msgctxt "DeleteDownloadsDialog|"
+msgid "Delete selected downloads"
+msgstr "A kijelölt letöltések törlése"
+
+msgctxt "DeleteDownloadsDialog|"
+msgid "Remember my choice"
+msgstr "Emlékezz a választásomra"
+
+msgctxt "DeleteDownloadsDialog|"
+msgid "Delete files"
+msgstr "Fájlok törlése"
+
+msgctxt "DeleteDownloadsDialog|"
+msgid "Remove from list"
+msgstr "Eltávolít a listáról"
+
+msgctxt "DeleteDownloadsDialog|"
+msgid "Cancel"
+msgstr "Mégse"
+
+msgctxt "DeleteDownloadsDialog|"
+msgid "OK"
+msgstr "Rendben"
+
+msgctxt "DeleteDownloadsDialog|"
+msgid "Delete this file?"
+msgstr "Törli ezt a fájlt?"
+
+msgctxt "DeleteDownloadsDialog|"
+msgid "Delete selected files?"
+msgstr "Törli a kijelölt fájlokat?"
+
+msgctxt "DeleteDownloadsDialogSimple|"
+msgid "Delete selected downloads"
+msgstr "A kijelölt letöltések törlése"
+
+msgctxt "DeleteDownloadsDialogSimple|"
+msgid "Are you sure you want to delete the selected file(s)?"
+msgstr "Biztosan törli a kijelölt fájlokat?"
+
+msgctxt "DeleteDownloadsDialogSimple|"
+msgid "OK"
+msgstr "Rendben"
+
+msgctxt "DeleteDownloadsDialogSimple|"
+msgid "Cancel"
+msgstr "Mégse"
+
+msgctxt "DiskSpace|"
+msgid "Size: %1 (Disk space: %2)"
+msgstr "Méret: %1 (Lemezterület: %2)"
+
+msgctxt "DownloadsItemTools|"
+msgid "File is missing"
+msgstr "A fájl hiányzik"
+
+msgctxt "DownloadsItemTools|"
+msgid "Disk is missing"
+msgstr "Hiányzik a lemez"
+
+msgctxt "DownloadsList|"
+msgid "Download links"
+msgstr "Linkek letöltése"
+
+msgctxt "DownloadsList|"
+msgid "Select all"
+msgstr "Mindent kijelöl"
+
+msgctxt "DownloadsList|"
+msgid "Select none"
+msgstr "Nincs kiválasztás"
+
+msgctxt "DownloadsPage|"
+msgid "Download list is empty."
+msgstr "A letöltési lista üres."
+
+msgctxt "DownloadsPage|"
+msgid "Add new download URL."
+msgstr "Adjon hozzá új letöltési URL-t."
+
+msgctxt "DownloadsPage|"
+msgid "No results found for"
+msgstr "Nincs találat a következőre"
+
+msgctxt "DownloadsPage|"
+msgid "No results tagged \"%1\" found"
+msgstr "Nincs \"%1\" címkével ellátott eredmény"
+
+msgctxt "DownloadsPage|"
+msgid "No active downloads"
+msgstr "Nincs aktív letöltés"
+
+msgctxt "DownloadsPage|"
+msgid "No completed downloads"
+msgstr "Nincs befejezett letöltés"
+
+msgctxt "DownloadsPage|"
+msgid "Show all"
+msgstr "Összes megjelenítése"
+
+msgctxt "DownloadsPage|"
+msgid "Download list is empty. Add new download URL."
+msgstr "A letöltési lista üres. Adjon hozzá új letöltési URL-t."
+
+msgctxt "DownloadsTagMenu|"
+msgid "Untag"
+msgstr "Cimkézetlen"
+
+msgctxt "DownloadsViewHeader|"
+msgid "Name"
+msgstr "Név"
+
+msgctxt "DownloadsViewHeader|"
+msgid "Status"
+msgstr "Állapot"
+
+msgctxt "DownloadsViewHeader|"
+msgid "Speed"
+msgstr "Sebesség"
+
+msgctxt "DownloadsViewHeader|"
+msgid "Size"
+msgstr "Méret"
+
+msgctxt "DownloadsViewHeader|"
+msgid "Added"
+msgstr "Hozzáadva"
+
+msgctxt "DownloadsViewItem|"
+msgid "Priority"
+msgstr "Prioritás"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Restart"
+msgstr "Újraindítás"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Open"
+msgstr "Megnyit"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Show In Folder"
+msgstr "Megjelenítés a mappában"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Show Downloads"
+msgstr "Letöltések megjelenítése"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Set Priority"
+msgstr "Prioritás beállítása"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "High"
+msgstr "Magas"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Normal"
+msgstr "Normál"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Low"
+msgstr "Alacsony"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Move to..."
+msgstr "Áthelyezés ide..."
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Delete file"
+msgstr "Fájl törlése"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Remove from list"
+msgstr "Eltávolít a listáról"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Sequential Download"
+msgstr "Egymásutáni letöltés"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Copy link"
+msgstr "Link másolása"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Add Tag"
+msgstr "Címke hozzáadása"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "File integrity"
+msgstr "Fájl integritás"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Schedule"
+msgstr "Ütemező"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Change URL"
+msgstr "URL módosítása"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Set priority"
+msgstr "Prioritás beállítása"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Show in folder"
+msgstr "Megjelenítés a mappában"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Show info"
+msgstr "Információ megjelenítése"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Files"
+msgstr "Fájlok"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Sequential download"
+msgstr "Egymásutáni letöltés"
+
+msgctxt "DownloadsViewItemFileInfo|"
+msgid "Download complete"
+msgstr "A letöltés befejeződött"
+
+msgctxt "DownloadsViewItemFileInfo|"
+msgid "Moving... %1%"
+msgstr "Áthelyezés... %1%"
+
+msgctxt "DownloadsViewItemFileInfo|"
+msgid "Checking resume data..."
+msgstr "Az adatok folytatódásának ellenőrzése..."
+
+msgctxt "DownloadsViewItemFileInfo|"
+msgid "Merging media streams..."
+msgstr "A médiafolyamok egyesítése..."
+
+msgctxt "DownloadsViewItemFileInfo|"
+msgid "Requesting info..."
+msgstr "Információ kérése ..."
+
+msgctxt "DownloadsViewItemFileInfo|"
+msgid "Queued"
+msgstr "Várólistán"
+
+msgctxt "DownloadsViewItemFileInfo|"
+msgid "Paused"
+msgstr "Felfüggesztve"
